@@ -1,5 +1,5 @@
 # Titanik 
-Титаник — известная задача на Kaggle, ориентированная в большей мере на начинающих в машинном обучении. Датасет Титаник содержит данные пассажиров корабля. Цель задачи — построить модель, которая лучшим образом сможет предсказать, остался ли произвольный пассажир в живых или нет.
+The Titanic is a well-known task at Kaggle, focused more on beginners in machine learning. The dataset Titanic contains passenger data for the ship. The goal of the problem is to build a model that can best predict whether an arbitrary passenger is alive or not.
 
 ## Setup:
   1) You will need to have `numpy`, `pandas`, `seaborn`, and `matplotlib`.
